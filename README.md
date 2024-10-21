@@ -2,7 +2,7 @@
 
 Tugas Pertemuan Ke 5
 
-Nama: Zizantara Arzeva Cakra Kha
+Nama: Zizantara Arzeva Cakra Kahana
 
 Kelas: TI 24 A3
 
