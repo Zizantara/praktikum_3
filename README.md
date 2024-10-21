@@ -22,7 +22,6 @@ Berikut flowchartnya
 
 **Penjelasan Code**
 
-**1.**
 
 ```
 # Input tiga bilangan A, B, C
